@@ -1,6 +1,6 @@
 # OceanOverflow
 A Proposal for Mitigating Sea Level Rise: The Global Overflow Reservoir
-Author: Heath Ahrens + Groq3 (Inspired by conversation notes from June 5, 2022)  
+Author: Heath Ahrens + Grok3 (Inspired by conversation notes from June 5, 2022)  
 
 Abstract
 Rising sea levels threaten coastal communities, infrastructure, and economies worldwide, with projected damages in the trillions of dollars. This lite paper proposes a bold engineering solution: constructing a massive overflow reservoir—equivalent in area to France and approximately 500 feet deep—to store excess ocean water and mitigate approximately one foot of sea level rise. While significant environmental, logistical, and economic challenges exist, the concept merits discussion as a potential countermeasure to the escalating impacts of climate change.
